@@ -1,0 +1,49 @@
+.nav{
+	display: flex;
+}
+
+.head{
+	background: grey;
+}
+
+.dere nav ul{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+li {
+	text-decoration: none;
+	list-style: none;
+	padding-left: 20px;
+}
+
+.izqui{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.na-2 nav ul{
+	display: flex;
+}
+
+a{
+	text-decoration: none;
+}
+
+.prin{
+	height: 350px;
+	background: grey
+}
+
+.cuadritos{
+	display: flex;
+}
+
+.dritos{
+	margin-top: 20px;
+	height: 200px;
+	background: grey;
+}
+
